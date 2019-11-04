@@ -1,9 +1,9 @@
-This scripts are intended to get the list of project files and to get know the
-existence of those files the execution environment.
+These scripts are intended to get the list of project files and to get to know the
+existence of those files in another execution environment. 
+Mostly used for project security to confirm all the project files are removed from the developer's environment once the project is closed.
 
-***
 The script "read_file_names.py", reads all the files exited in the provided
-directory recursively and create a csv file with name provided by user.
+directory recursively and create a CSV file with the name provided by user.
 
 Below is the sample of execution of read_file_names.py
 ```bash
@@ -14,8 +14,8 @@ Enter the name of file to store the list :test
 (info_team_scripts) jinka@jinka:~/git/info_team_scripts$
 ```
 
-The script "read_file_names.py", reads the csv file given by user to get teh
-list of files to search and generates the file presence details in a csv format
+The script "search_file.py", reads the CSV file given by user to get the
+list of files to search and generates the file presence details in a CSV format
 named with "username_IPAddress.csv"
 
 Below is the sample of execution
