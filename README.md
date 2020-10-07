@@ -1,3 +1,5 @@
+#added line in master branch 
+
 These scripts are intended to get the list of project files and to get to know the
 existence of those files in another execution environment. 
 Mostly used for project security to confirm all the project files are removed from the developer's environment once the project is closed.
